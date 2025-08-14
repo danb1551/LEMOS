@@ -1,3 +1,6 @@
+
+# I think I messed up. This idea is bullshit.
+
 # LEMOS
 
 # Curently not finished

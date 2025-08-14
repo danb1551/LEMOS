@@ -1,0 +1,32 @@
+/*  --------  ROOT styles  --------  */
+
+html {
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+/*  --------  HEADER styles  --------  */
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #333;
+  color: white;
+  padding: 15px;
+  transition: transform 0.3s ease;
+  z-index: 1000;
+}
+
+header.hide {
+  transform: translateY(-100%);
+}
+
+main {
+  margin-top: 70px;
+  padding: 20px;
+}
